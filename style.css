@@ -1,0 +1,64 @@
+.input:focus {
+    outline: none;
+}
+.secondInput{
+    width: 600px;
+}
+.link:hover {
+    text-decoration: underline;
+    color: #000000;
+}
+.btn{
+    width: 80px;
+    border-top: 4px solid aqua !important;
+    border-left: 4px solid orange !important;
+    border-bottom: 4px solid blue !important;
+    border-right: 4px solid orange !important;
+}
+.load:hover{
+    border: 6px solid black !important;
+}
+.nav-item a{
+    color: gray;
+    font-size: 14px;
+}
+.footer{
+    background-color: rgb(240, 240, 240);
+}
+.box li{
+    list-style-type: none;
+    color: gray;
+}
+.row-cols-auto li{
+    list-style: none;
+}
+.row li{
+    list-style: none;
+}
+.row a{
+    text-decoration: none;
+    font-size: 12px;
+    color: grey;
+}
+.row i{
+    margin-left: 8px;
+}
+.row i:active{
+    border: 1px solid black;
+}
+.row a:hover{
+    color: black;
+}
+.final{
+    background: #2a4747;
+    color: #ffffff;
+    padding: 15px;
+    width: 100%;
+    margin-left: -10px;
+}
+.final a{
+    color: #ffffff;
+}
+.final a:hover{
+    color: #ffffff;
+}
